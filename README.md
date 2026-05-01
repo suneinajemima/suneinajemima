@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Suneina 👋
 
-<!--
-**suneinajemima/suneinajemima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Quality Engineer | QA Automation  
+🔍 Passionate about building scalable test frameworks and improving product quality  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- Playwright (JavaScript)
+- Selenium Automation
+- API Testing (Postman, REST Assured)
+- SQL & Database Validation
+- Agile & CI/CD (GitHub Actions, Jenkins)
+
+---
+
+## 📌 Featured Project
+### 🎯 Playwright Automation Framework – Booking Event
+End-to-end automation framework built using Playwright with Page Object Model and dynamic validations.
+
+🔗 https://github.com/suneinajemima/playwright-automation-BookingEvent
+
+---
+
+## 💡 What I Focus On
+- Building maintainable automation frameworks  
+- Reducing regression time with smart test design  
+- Catching defects early through strong validation  
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/suneina-jemima-3731541b2/
+- GitHub: https://github.com/suneinajemima
+
+---
+
+⭐ Open to QA Automation / SDET opportunities
